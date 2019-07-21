@@ -1,0 +1,10330 @@
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/c5aeca5e-2ca5-4291-a5f7-fc40766c345a
+
+
+
+Robbery
+
+ROBBERY 1ST - STREET - GUN
+2019-00137724
+1000 BLOCK  CENTENNIAL WAY
+7/16/2019 @ 10:50 AM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00137695
+900 BLOCK  HEATH DR
+7/16/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00137448
+500 BLOCK W LIBERTY ST
+7/15/2019 @ 10:32 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00137889
+1700 BLOCK  ROSA L PARKS AV
+7/14/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 17, 2019 @ 01:20 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/4316df4d-ef0e-46bc-a931-2e40f58abb65
+
+
+
+Robbery
+
+ROBBERY 1ST - STREET - GUN
+2019-00137565
+2400 BLOCK  LOWER WETUMPKA RD
+7/16/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00137659
+2000 BLOCK  AMOS ST
+7/16/2019 @ 5:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT OF LOST PROPERTY 4TH $500.00 AND UNDER
+2019-00137418
+2000 BLOCK  COLISEUM BLVD
+7/15/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00137763
+1200 BLOCK  FEDERAL DR
+7/15/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00137990
+500 BLOCK E  VANDIVER BLVD
+7/14/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 17, 2019 @ 01:20 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/cecf0790-484f-459b-b9b9-e136b6b37c1b
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00137210
+1300 BLOCK  OAK ST
+7/15/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00137256
+2200 BLOCK  LOCUST ST
+7/15/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00137362
+300 BLOCK  BOYCE ST
+7/15/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00137061
+500 BLOCK  CAPITOL PKWY CT
+7/15/2019 @ 11:30 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00137272
+2400 BLOCK  PLUM ST
+7/15/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00136914
+1900 BLOCK  MADISON AV
+7/15/2019 @ 1:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00136978
+100 BLOCK  COURTLAND DR
+7/14/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00137119
+3400 BLOCK  NORMAN BRIDGE RD
+7/14/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00137099
+CHESTNUT ST
+7/14/2019 @ 2:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 2ND - RESIDENCE - FORCE
+2019-00137300
+2200 BLOCK  EDWARD J NETTLES LN
+7/13/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00135044
+0 BLOCK  DEXTER AVE
+7/12/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 16, 2019 @ 01:12 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/1a28c643-bcbe-48ec-a933-d7b0575705cf
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION MARIJUANA 2ND
+2019-00137026
+400 BLOCK  COLISEUM BLVD
+7/15/2019 @ 10:50 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00136999
+2400 BLOCK  CHASE PARK DR
+7/15/2019 @ 9:55 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00137065
+3400 BLOCK  FLINTSTONE CT
+7/15/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 16, 2019 @ 01:12 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 22 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+22 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/a3d574e0-0e12-4b41-a0c0-8f3b47e7a2e1
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00136805
+0 BLOCK  NICROSI ST
+7/15/2019 @ 12:15 AM
+Montgomery Police
+
+
+
+Assault
+
+CRIMINAL USE OF DEFENSIVE SPRAY / AGG ASSAULT / NON-FAMILY / OTHER WEAPON
+2019-00136762
+800 BLOCK  SAYRE ST
+7/14/2019 @ 10:40 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00136573
+0 BLOCK W  FAIRVIEW AVE
+7/14/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00136443
+500 BLOCK W  FAIRVIEW AV
+7/14/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - STREET - GUN
+2019-00136377
+200 BLOCK N  CAPITOL PKWY
+7/14/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00136301
+100 BLOCK  MARSHALL ST
+7/14/2019 @ 4:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00136321
+300 BLOCK  RYAN ST
+7/14/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00136331
+2000 BLOCK S  HULL ST
+7/13/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00136411
+2000 BLOCK  CAHABA ST
+7/13/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE BY STRANGULATION OR SUFFOCATION
+2019-00135808
+400 BLOCK  MAURY ST
+7/13/2019 @ 9:50 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00135656
+900 BLOCK S  DECATUR ST
+7/12/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00135452
+600 BLOCK  ROSA L PARKS AV
+7/12/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00135436
+800 BLOCK UNIVERSITY DR
+7/12/2019 @ 8:26 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00135334
+100 BLOCK  COURTLAND DR
+7/12/2019 @ 5:15 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00135495
+3300 BLOCK  WILMINGTON RD
+7/12/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00135088
+3300 BLOCK S  PERRY ST
+7/12/2019 @ 10:47 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - SHOPLIFTING, VALUE $500.01- $ 1499.99
+2019-00134529
+300 BLOCK  WAYNE ST
+7/12/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - NON-RESIDENCE - NO FORCE
+2019-00134617
+2200 BLOCK E  SECOND ST
+7/11/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00133176
+700 BLOCK  DAVIDSON ST
+7/9/2019 @ 1:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - FROM YARDS
+2019-00135018
+3300 BLOCK S  PERRY ST
+7/9/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00132961
+2400 BLOCK  CENTER ST
+7/9/2019 @ 10:20 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00135086
+1200 BLOCK  HUGH ST
+7/9/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 15, 2019 @ 01:15 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 10 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+10 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/1dba8226-4208-420f-b76d-d898b7c9de80
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00136727
+1600 BLOCK  FEDERAL DR
+7/14/2019 @ 9:50 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT OF LOST PROPERTY 3RD $500.01 - $1499.99
+2019-00136498
+2300 BLOCK  CONG W L DICKINSON DR
+7/14/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00136312
+1600 BLOCK  GIBSON ST
+7/14/2019 @ 4:50 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00136749
+2400 BLOCK  CHASE PARK DR
+7/14/2019 @ 1:45 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00136428
+2200 BLOCK  UPPER WETUMPKA RD
+7/14/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 2ND - DAMAGE TO PRIVATE PROPERTY
+2019-00136151
+1200 BLOCK  EMORY FOLMAR BLVD
+7/13/2019 @ 10:13 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00135989
+FARO DR  &  STARBROOK DR
+7/13/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00135194
+100 BLOCK E  PARK AV
+7/12/2019 @ 1:28 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00134958
+800 BLOCK  NORTH GAP LOOP
+7/11/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00135008
+2000 BLOCK  MILLER ST
+7/11/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 15, 2019 @ 01:15 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 13 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+13 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/ac191b87-3aac-47f4-ad98-a4da7bfb141a
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00134840
+300 BLOCK  BOYCE ST
+7/11/2019 @ 11:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - PICKPOCKET
+2019-00134816
+1200 BLOCK  CENTENNIAL WAY
+7/11/2019 @ 10:20 PM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00134698
+800 BLOCK  MURRAY ST
+7/11/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00134785
+1300 BLOCK  MARTHA ST
+7/11/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00134415
+1300 BLOCK N  RIPLEY ST
+7/11/2019 @ 10:45 AM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 3RD - STREET - OTHER WEAPON
+2019-00134502
+200 BLOCK  MONTGOMERY ST
+7/11/2019 @ 8:30 AM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00134219
+400 BLOCK  BURTON AV
+7/11/2019 @ 2:20 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00134347
+2000 BLOCK  POTOMAC AV
+7/11/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00134303
+1200 BLOCK  CENTENNIAL WAY
+7/10/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00134310
+1000 BLOCK  DAY ST
+7/10/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00133715
+1100 BLOCK S  COURT ST
+7/10/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - FROM YARDS
+2019-00134542
+800 BLOCK  FELDER AV
+6/30/2019 @ 7:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00134405
+2000 BLOCK  STEPHENS ST
+6/25/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 12, 2019 @ 12:22 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/c831991d-605c-4337-b80c-eb169be5e34a
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00134851
+1600 BLOCK  YARBROUGH ST
+7/11/2019 @ 11:45 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00134425
+1600 BLOCK  FEDERAL DR
+7/11/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00134358
+1900 BLOCK  SPEIGLE ST
+7/11/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00133980
+700 BLOCK  OAKBROOK DR
+7/10/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00134403
+3100 BLOCK  TEXAS ST
+7/7/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 12, 2019 @ 12:22 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f6ce6a1b-9bce-4169-8470-5cb22d3381a2
+
+
+
+Robbery
+
+ROBBERY 1ST - STREET - GUN
+2019-00134164
+2300 BLOCK  LOCUST ST
+7/10/2019 @ 11:48 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00134024
+300 BLOCK W  FAIRVIEW AV
+7/10/2019 @ 7:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00133945
+200 BLOCK W  FAIRVIEW AVE
+7/10/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - ASSAULT NON-FAMILY - KNIFE
+2019-00133887
+100 BLOCK  WADE ST
+7/10/2019 @ 3:20 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00133685
+500 BLOCK  PERCY DR
+7/9/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+PROMOTE PRISON CONTRABAND 2ND - DRUG/SMUGGLE DRUG
+2019-00132907
+300 BLOCK N  RIPLEY ST
+7/9/2019 @ 10:30 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 11, 2019 @ 12:24 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 15 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+15 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/d9c9abc3-539a-4160-827f-dbbf8a315f2c
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00133512
+300 BLOCK S  JACKSON ST
+7/10/2019 @ 12:25 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - OTHER VEHICLE
+2019-00133537
+1500 BLOCK E  FAIRVIEW AV
+7/9/2019 @ 11:45 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - ASSAULT NON-FAMILY - KNIFE
+2019-00133255
+1000 BLOCK FOREST PARK
+7/9/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00133237
+3300 BLOCK S  PERRY ST
+7/9/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00132621
+0 BLOCK  STUART ST
+7/8/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00132960
+1400 BLOCK  BRAGG ST
+7/8/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00132439
+1600 BLOCK S  DECATUR ST
+7/8/2019 @ 11:55 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00132253
+1500 BLOCK  LAKE ST
+7/8/2019 @ 2:30 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00132365
+2100 BLOCK  HIGHLAND AV
+7/8/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00131924
+300 BLOCK W  FAIRVIEW AV
+7/7/2019 @ 6:09 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00132313
+800 BLOCK  ALMA DR
+7/7/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00132308
+300 BLOCK  CLANTON AV
+7/7/2019 @ 7:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00133385
+1200 BLOCK  CENTENNIAL WAY
+7/7/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00132601
+900 BLOCK S  UNION ST
+7/5/2019 @ 2:00 AM
+Montgomery Police
+
+
+
+Fraud
+
+FORGERY 3RD - CHECKS
+2019-00133115
+600 BLOCK  CLAY ST
+7/1/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 10, 2019 @ 12:46 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 18 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+18 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/a9e371c6-6cb6-4157-b7f3-50a539e21c19
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00133388
+2800 BLOCK  LOWER WETUMPKA RD
+7/9/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT OF LOST PROPERTY 4TH $500.00 AND UNDER
+2019-00133294
+2000 BLOCK  COLISEUM BLVD
+7/9/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00132758
+500 BLOCK  BROOKVIEW DR
+7/8/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00132688
+3200 BLOCK  BROOKTREE DR
+7/8/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00013262
+1800 BLOCK EDGEWORTH DR
+7/8/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - NON-FAMILY - GUN
+2019-00132599
+200 BLOCK  EMPIRE RD
+7/8/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO PUBLIC PROPERTY
+2019-00132583
+3100 BLOCK  COTTON ST
+7/8/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00132451
+300 BLOCK  CONLEY CIR
+7/8/2019 @ 1:20 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00132462
+800 BLOCK NORTH GAP
+7/8/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+UNAUTHORIZED USE OF VEHICLE - NO FORCE
+2019-00132859
+1500 BLOCK  MIDWAY ST
+7/8/2019 @ 10:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00132689
+2300 BLOCK  UPPER WETUMPKA RD
+7/8/2019 @ 4:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00132244
+1900 BLOCK  SPEIGLE ST
+7/7/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00131991
+1500 BLOCK  MIDWAY ST
+7/7/2019 @ 7:45 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00131971
+1500 BLOCK  GIBSON ST
+7/7/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00132306
+2400 BLOCK  UPPER WETUMPKA RD
+7/7/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00132384
+1200 BLOCK  COLISEUM BLVD
+7/7/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00132969
+1600 BLOCK  RIGBY ST
+7/4/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - FROM RESIDENCE
+2019-00132990
+2800 BLOCK  WILLENA AV
+7/3/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 10, 2019 @ 12:46 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/a10dc807-ffdd-4023-a75b-698f7a529c04
+
+
+
+Assault
+
+HARASSMENT
+2019-00131709
+2000 BLOCK  CLUBVIEW ST
+7/7/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131753
+400 BLOCK  VICTOR TULANE CIR
+7/7/2019 @ 3:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00131676
+300 BLOCK W  JEFF DAVIS AV
+7/6/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00131786
+2000 BLOCK  HIGHLAND AV
+7/6/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00131700
+1900 BLOCK CAPITOL AVE
+7/6/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00131691
+3300 BLOCK  WHITING AVE
+7/4/2019 @ 10:30 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 08, 2019 @ 12:28 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/292f7806-54c5-43d9-bdcf-a25b72d4d985
+
+
+
+Assault
+
+ASSAULT 3RD - CHILD ABUSE - SIMPLE - FAMILY
+2019-00131872
+400 BLOCK GARDENDALE RD
+7/7/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM YARD
+2019-00131815
+900 BLOCK VISTA TERRACE
+7/7/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131656
+100 BLOCK E  PARK AV
+7/6/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00131279
+1900 BLOCK  COLISEUM BLVD
+7/6/2019 @ 6:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00131682
+200 BLOCK BROADWAY ST
+7/6/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00131262
+1900 BLOCK  YARBROUGH ST
+7/6/2019 @ 5:45 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00131743
+400 BLOCK  OAKBROOK DR
+6/19/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 08, 2019 @ 12:28 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 14 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+14 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/c42016d6-d95b-429d-8453-2d23b1a08ba1
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00131367
+1400 BLOCK  MOBILE RD
+7/6/2019 @ 8:40 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00131546
+1800 BLOCK W  FOURTH ST
+7/6/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131561
+500 BLOCK  PERCY DR
+7/6/2019 @ 8:20 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00131315
+3300 BLOCK  NORMAN BRIDGE RD
+7/6/2019 @ 7:49 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00131187
+1600 BLOCK S  DECATUR ST
+7/6/2019 @ 3:06 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - BUSINESS - GUN
+2019-00131159
+1700 BLOCK  UPPER WETUMPKA RD
+7/6/2019 @ 2:24 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00131287
+900 BLOCK  LUCY ST
+7/6/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00131014
+3500 BLOCK  SOUTHMONT DR
+7/6/2019 @ 7:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00130960
+3400 BLOCK  GILMER AV
+7/6/2019 @ 4:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00131065
+1300 BLOCK  BRAGG ST
+7/5/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00131249
+1600 BLOCK E  FAIRVIEW AVE
+7/5/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131147
+3100 BLOCK  GILMER AV
+7/4/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00131151
+1900 BLOCK CAPITOL AVE
+7/3/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00131225
+2500 BLOCK  PLUM ST
+6/30/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 07, 2019 @ 12:07 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/8359c823-cef0-4107-b417-a74668f2f301
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00131461
+1800 BLOCK  CROUSON ST
+7/6/2019 @ 8:40 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131094
+2300 BLOCK  COLISEUM PKWY
+7/6/2019 @ 11:45 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131032
+3400 BLOCK  PELZER AV
+7/6/2019 @ 9:35 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131002
+300 BLOCK  MILTON RD
+7/6/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00131046
+600 BLOCK  COLISEUM BLVD
+7/5/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00130425
+2700 BLOCK  ASHLEY AV
+7/5/2019 @ 1:40 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 07, 2019 @ 12:07 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f9d336d9-66cc-443a-887b-d2718cce0b39
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00130497
+3000 BLOCK  MILTON RD
+6/30/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 06, 2019 @ 12:27 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/1a6fe75f-215b-453e-bf3c-7796a16a6735
+
+
+
+Assault
+
+ASSAULT 1ST - NON-FAMILY - KNIFE
+2019-00130837
+0 BLOCK  WINNIE ST
+7/6/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00130617
+500 BLOCK  COLUMBIA AV
+7/5/2019 @ 6:50 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - OTHER
+2019-00130361
+2300 BLOCK  BOONE ST
+7/5/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00130189
+300 BLOCK  FELDER AV
+7/5/2019 @ 2:30 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00130505
+3400 BLOCK  WHITING AV
+7/4/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 06, 2019 @ 12:27 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 10 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+10 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/30a95e49-db2b-4f80-85a5-375d27aea739
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00130108
+1300 BLOCK  ROSA L PARKS AV
+7/5/2019 @ 2:00 AM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00130006
+3400 BLOCK  GILMER CT
+7/4/2019 @ 11:40 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00129892
+0 BLOCK  FLOOD ST
+7/4/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00129885
+3400 BLOCK  WILMINGTON RD
+7/4/2019 @ 10:20 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00129865
+1600 BLOCK S  DECATUR ST
+7/4/2019 @ 9:34 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - NON-FAMILY - GUN
+2019-00129807
+1700 BLOCK  PINE ST
+7/4/2019 @ 9:05 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00129825
+1900 BLOCK  HILLDALE DR
+7/4/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - OTHER
+2019-00130106
+500 BLOCK  VIRGINIA AV
+7/4/2019 @ 11:47 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 2ND - RESIDENCE - FORCE
+2019-00129322
+1800 BLOCK  PLUM ST
+7/3/2019 @ 11:30 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+MARIJUANA POSSESSION 1 FELONY
+2019-00128829
+900 BLOCK  ALEXANDER ST
+7/3/2019 @ 4:52 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 05, 2019 @ 12:31 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/4d42bff4-9757-4b69-815f-9938d9990d58
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00129678
+2000 BLOCK  AMOS ST
+7/4/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00129478
+600 BLOCK  6TH ST
+7/4/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Sex Crimes
+
+RAPE 1ST - STRONG ARM
+2019-00129386
+400 BLOCK  GARDENDALE DR
+7/4/2019 @ 2:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00129494
+200 BLOCK  CHISHOLM ST
+7/3/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 05, 2019 @ 12:31 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/16602722-98ef-4b87-a862-94fd59df9530
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00128866
+700 BLOCK  VISTA TERRACE DR
+7/3/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00128929
+2400 BLOCK  CHASE PARK DR
+7/3/2019 @ 8:15 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00128509
+2900 BLOCK  PELZER AV
+7/2/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - RESIDENCE - GUN
+2019-00128077
+700 BLOCK  MILLARD FULLER DR
+7/2/2019 @ 5:20 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 04, 2019 @ 11:59 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/35d513e7-f83a-4865-a249-897446c56fb5
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 2ND - AGG  ASSAULT FAMILY - GUN, KNIFE, STRONG ARM, OTHER WEAP
+2019-00129174
+1700 BLOCK  WINONA AVE
+7/4/2019 @ 12:30 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00129148
+1900 BLOCK  HILLDALE DR
+7/3/2019 @ 11:50 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00129239
+1600 BLOCK S  DECATUR ST
+7/3/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00128793
+2400 BLOCK  PLUM ST
+7/3/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00128651
+400 BLOCK  FINLEY AV
+7/3/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00128580
+3100 BLOCK  DAY ST
+7/3/2019 @ 10:14 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00128724
+900 BLOCK  LUCY ST
+7/3/2019 @ 8:30 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00128461
+900 BLOCK  EARLY ST
+7/2/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 04, 2019 @ 11:59 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 10 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+10 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/3abc087e-768c-4889-b1d3-fc8699c4de9b
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00128155
+3000 BLOCK  ROSA L PARKS AV
+7/2/2019 @ 7:32 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00128126
+600 BLOCK  BOYCE ST
+7/2/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00127936
+700 BLOCK  RIDGEMONT AV
+7/2/2019 @ 12:30 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00127896
+1000 BLOCK  EDGAR D NIXON AV
+7/2/2019 @ 12:21 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00128014
+1500 BLOCK  SIERRA ST
+7/2/2019 @ 6:32 AM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - COERCION / SIMPLE ASSAULT
+2019-00127727
+6000 BLOCK EMERSON ST
+7/2/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00127715
+2400 BLOCK  PLUM ST
+7/1/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00127511
+200 BLOCK  TALLAPOOSA ST
+7/1/2019 @ 8:20 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00128118
+3500 BLOCK S  COURT ST
+6/28/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00127961
+500 BLOCK  MARTHA ST
+6/27/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 03, 2019 @ 01:41 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/036df7b8-3612-4895-9090-6c45083c272f
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00127923
+1000 BLOCK  COLISEUM BLVD
+7/2/2019 @ 12:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00126853
+300 BLOCK  CONLEY CIR
+7/1/2019 @ 2:49 AM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00127815
+1000 BLOCK  PEBBLEBROOK DR
+6/27/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 03, 2019 @ 01:41 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/5fa20a65-7437-4bbe-b6e2-4e4624bda45d
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00127076
+1200 BLOCK  FEDERAL DR
+7/1/2019 @ 3:45 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - OTHER
+2019-00126748
+3000 BLOCK  ALABAMA RIVER PKWY
+6/30/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00127005
+3000 BLOCK  TREMONT ST
+6/30/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00127177
+1700 BLOCK  CONG W L DICKINSON DR
+6/30/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00127162
+1700 BLOCK  CONG W L DICKINSON DR
+6/29/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 02, 2019 @ 01:23 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 15 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+15 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/15b3d737-6757-44c9-859f-b5d59ccbdc52
+
+
+
+Assault
+
+ASSAULT 1ST - NON-FAMILY - GUN
+2019-00127477
+RANDOLPH ST @ N COURT ST
+7/1/2019 @ 10:10 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00127275
+1600 BLOCK  CARTER HILL RD
+7/1/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00127182
+3400 BLOCK  NORMAN BRIDGE RD
+7/1/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00127114
+100 BLOCK  FREDERICK AV
+7/1/2019 @ 12:45 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - BUSINESS - GUN
+2019-00126910
+700 BLOCK S  PERRY ST
+7/1/2019 @ 6:20 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00126960
+300 BLOCK  EARLY ST
+7/1/2019 @ 4:27 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00126877
+1300 BLOCK  HERRON ST
+7/1/2019 @ 3:50 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00126924
+500 BLOCK  HALL ST
+6/30/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00126618
+500 BLOCK  PERCY DR
+6/30/2019 @ 7:55 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00126954
+1400 BLOCK  GILMER AV
+6/30/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00126708
+500 BLOCK  GLENMORE RD
+6/30/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00127029
+3000 BLOCK  ROSA L PARKS AVE
+6/30/2019 @ 8:30 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+COMM. THEFT OF LOST PROPERTY
+2019-00125144
+1000 BLOCK  BUFORD ST
+6/27/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00126590
+200 BLOCK S  MADISON TER
+6/20/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+COMM. UNAUTHORIZED USE OF AUTO
+2019-00127170
+500 BLOCK S  HOLT ST
+6/11/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 02, 2019 @ 01:23 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/19e49c47-5ebf-4a67-bb42-f78ffb5ac7c5
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00126785
+2300 BLOCK E  FOURTH ST
+7/1/2019 @ 12:08 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00126583
+300 BLOCK N  ANTON DR
+6/30/2019 @ 6:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00126478
+400 BLOCK W  FAIRVIEW AV
+6/30/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+DOMESTIC VIOLENCE 2ND - BURGLARY 2ND/3RD RESIDENCE - FORCE
+2019-00126442
+500 BLOCK  CAPITOL PKWY CT
+6/30/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00126251
+1100 BLOCK E  FAIRVIEW AV
+6/30/2019 @ 4:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00126367
+200 BLOCK  FELDER AV
+6/30/2019 @ 1:30 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FIREARMS
+2019-00123131
+MADISON AVENUE
+6/20/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00126328
+1400 BLOCK  SIERRA ST
+6/16/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: July 01, 2019 @ 01:03 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/77de97ad-a758-43b4-8a4d-a2fcfaae9e6b
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00126730
+700 BLOCK  COLISEUM BLVD
+6/30/2019 @ 10:15 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00126379
+2000 BLOCK  MILLER ST
+6/30/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00126423
+1000 BLOCK  PARKWOOD DR
+6/30/2019 @ 4:30 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00126329
+400 BLOCK  BROOKVIEW DR
+6/29/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: July 01, 2019 @ 01:03 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/de326477-1b32-4b8a-ac41-ad3af0e1dbd3
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00126042
+700 BLOCK  COLISEUM BLVD
+6/29/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00125904
+1800 BLOCK  CROUSON ST
+6/29/2019 @ 3:16 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00125588
+1700 BLOCK  CONG W L DICKINSON DR
+6/29/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00125690
+500 BLOCK  BROOKVIEW DR
+6/27/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00126027
+3100 BLOCK  CABOT ST
+6/27/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 30, 2019 @ 12:16 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/fd90765c-4cf9-4f38-997c-4cdf016f4fe8
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00126006
+300 BLOCK W  FAIRVIEW AV
+6/29/2019 @ 7:10 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00125870
+400 BLOCK  HALL ST
+6/29/2019 @ 1:40 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - RESIDENCE - GUN
+2019-00125848
+100 BLOCK S  HOPPER ST
+6/29/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00125725
+700 BLOCK S  COURT ST
+6/29/2019 @ 8:21 AM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00125572
+600 BLOCK  WOODROW ST
+6/29/2019 @ 12:45 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00125785
+300 BLOCK  WAYNE ST
+6/28/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00125747
+300 BLOCK  FELDER AV
+6/28/2019 @ 3:41 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00125731
+3300 BLOCK  NORMAN BRIDGE RD
+6/15/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 30, 2019 @ 12:16 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 2 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+2 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/752bd93b-44ae-496f-a857-0c0d5560f1f0
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00125263
+2800 BLOCK  FORBES DR
+6/28/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00125076
+400 BLOCK  COLISEUM BLVD
+6/27/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 29, 2019 @ 12:12 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/a45e1453-28b9-47f0-abd4-8c898536f655
+
+
+
+Robbery
+
+ROBBERY 1ST - STREET - GUN
+2019-00125449
+BRAGG ST
+6/28/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 4TH - SWINDLE
+2019-00125319
+0 BLOCK W  JEFFERSON ST
+6/28/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00124916
+2100 BLOCK  MILL ST
+6/28/2019 @ 3:45 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00124940
+1800 BLOCK  UPPER WETUMPKA RD
+6/27/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00124939
+800 BLOCK  CLOVERDALE RD
+6/27/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00123746
+1100 BLOCK S  DECATUR ST
+6/26/2019 @ 12:15 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 29, 2019 @ 12:12 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 2 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+2 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/3677df1a-11c2-4513-97d1-b505169f0f27
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00124330
+2000 BLOCK  GIBSON ST
+6/27/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FIREARMS
+2019-00124305
+200 BLOCK  SHELLY CT
+6/26/2019 @ 7:30 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 28, 2019 @ 12:50 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 13 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+13 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/25f9877d-9a88-468f-9cd1-07c0c7a151a8
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00124857
+500 BLOCK  AUGUSTA AV
+6/28/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00124682
+ALEXANDER ST
+6/27/2019 @ 7:35 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00124740
+2300 BLOCK  STELLA ST
+6/27/2019 @ 7:30 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00124586
+900 BLOCK  ALEXANDER ST
+6/27/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+MARIJUANA POSSESSION 2 MISDEMEANOR
+2019-00124464
+S HOLT ST
+6/27/2019 @ 1:50 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00124442
+500 BLOCK  PERCY DR
+6/27/2019 @ 12:59 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00124411
+1600 BLOCK S  DECATUR ST
+6/27/2019 @ 11:37 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00124331
+1400 BLOCK N  DECATUR ST
+6/27/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - NON-FAMILY - GUN
+2019-00124239
+300 BLOCK E  EDGEMONT AV
+6/27/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - FROM YARDS
+2019-00124391
+3300 BLOCK  EDGAR D NIXON AV
+6/26/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00124558
+0 BLOCK  ARLINGTON RD
+6/26/2019 @ 6:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00124301
+300 BLOCK  CLOVERDALE RD
+6/25/2019 @ 6:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FIREARMS
+2019-00124802
+400 BLOCK  POLK ST
+6/25/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 28, 2019 @ 12:50 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/6885a1e2-df89-4381-a97e-5cc2bd293214
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00124132
+3400 BLOCK  LOWER WETUMPKA RD
+6/26/2019 @ 11:40 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00123954
+500 BLOCK  CHISHOLM ST
+6/26/2019 @ 6:20 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00123950
+3500 BLOCK  MANLEY DR
+6/26/2019 @ 6:20 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - NON-FAMILY - GUN
+2019-00123940
+500 BLOCK  4TH ST
+6/26/2019 @ 6:15 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00123866
+2000 BLOCK  SPEIGLE ST
+6/26/2019 @ 6:15 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00123516
+2000 BLOCK  COLISEUM BLVD
+6/26/2019 @ 12:42 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00123685
+500 BLOCK  4TH ST
+6/25/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00123788
+400 BLOCK  GARDENDALE DR
+6/19/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 27, 2019 @ 01:14 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 9 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+9 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/111a94c7-2e19-4910-8824-5251c7b0b950
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00123785
+1400 BLOCK FINLEY
+6/26/2019 @ 1:28 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00123742
+800 BLOCK  SAYRE ST
+6/26/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00123595
+300 BLOCK S  CAPITOL PKWY
+6/25/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00123656
+700 BLOCK W  FAIRVIEW AV
+6/25/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00123163
+3100 BLOCK  DAY ST
+6/25/2019 @ 6:15 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00123763
+2000 BLOCK  CARLO ST
+6/25/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00123733
+400 BLOCK  PERCY DR
+6/24/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00123771
+900 BLOCK S  LAWRENCE ST
+6/12/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FROM RESIDENCE
+2019-00122473
+300 BLOCK  MONTGOMERY ST
+6/11/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 27, 2019 @ 01:14 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/13572660-7b53-4f30-b084-0ea4683d57ed
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00123240
+200 BLOCK S  JACKSON ST
+6/25/2019 @ 8:02 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 3RD - CREDIT CARD/ATM FRAUD
+2019-00123109
+400 BLOCK  CLOVERDALE RD
+6/25/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00122760
+3300 BLOCK  WILMINGTON RD
+6/25/2019 @ 5:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00122832
+3100 BLOCK S  HULL ST
+6/22/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 26, 2019 @ 12:58 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/30c19a87-fd52-41a2-afb6-78db020d7512
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00122896
+700 BLOCK  COLISEUM BLVD
+6/25/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 26, 2019 @ 12:58 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/7c12c4b9-bd65-47c1-ac51-518cef06222e
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00122707
+1400 BLOCK S  PERRY ST
+6/25/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - NON-FAMILY - GUN
+2019-00122640
+EARLY ST  &  HILL ST
+6/24/2019 @ 11:05 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00122550
+400 BLOCK  CLAYTON ST
+6/24/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00122316
+1100 BLOCK S MCDONOUGH ST
+6/24/2019 @ 1:31 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00122578
+0 BLOCK  NICROSI ST
+6/24/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00121905
+PLUM ST
+6/23/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00122135
+1000 BLOCK  OAK ST
+6/23/2019 @ 9:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00121844
+1600 BLOCK  UPPER WETUMPKA RD
+6/23/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00122342
+2100 BLOCK  BELFAST ST
+6/22/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00122070
+1200 BLOCK  ROSA L PARKS AVE
+6/21/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00122223
+600 BLOCK  STEPHENS ST
+6/14/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 25, 2019 @ 01:07 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f84e690d-e729-446b-af1f-f5dd48b5df54
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00122595
+300 BLOCK E  PARK AV
+6/24/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00122424
+3000 BLOCK  ALABAMA RIVER PKWY
+6/24/2019 @ 4:50 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - AUTO THEFT/SALE
+2019-00122746
+300 BLOCK  CONLEY CIR
+6/24/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00122420
+500 BLOCK  CHISHOLM ST
+6/23/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00121756
+800 BLOCK E  CANYON CT
+6/23/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00122184
+400 BLOCK  BROOKVIEW DR
+6/21/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 25, 2019 @ 01:07 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 2 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+2 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/4056158c-6b71-4d59-bab5-11c919f07cd9
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM RESIDENCE
+2019-00121742
+2300 BLOCK  UPPER WETUMPKA RD
+6/23/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00121557
+500 BLOCK  WOODBROOK DR
+6/22/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 24, 2019 @ 01:00 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/b209b910-c490-4d39-800a-7f9a3d9cf734
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00121976
+1200 BLOCK  CENTENNIAL WAY
+6/24/2019 @ 1:29 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00121907
+2300 BLOCK  STARR ST
+6/23/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00121690
+1000 BLOCK N  DECATUR ST
+6/21/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 24, 2019 @ 01:00 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 9 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+9 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f530560c-9b95-4494-81c3-571849d900c8
+
+
+
+Theft / Larceny
+
+THEFT 4TH - BICYCLE
+2019-00121429
+S COURT ST
+6/23/2019 @ 2:55 AM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION MARIJUANA 2ND
+2019-00121200
+I-65 NORTHBOUND
+6/22/2019 @ 7:22 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00121206
+2100 BLOCK  STELLA ST
+6/22/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00121049
+600 BLOCK W  FAIRVIEW AVE
+6/22/2019 @ 1:50 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00120810
+400 BLOCK  PERCY DR
+6/22/2019 @ 3:10 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - FROM YARDS
+2019-00120953
+1800 BLOCK  ST CHARLES AV
+6/21/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+COMM. THEFT OF LOST PROPERTY
+2019-00120434
+800 BLOCK S  COURT ST
+6/20/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00119591
+100 BLOCK  ARLINGTON RD
+6/20/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00121016
+1500 BLOCK  LYNDLE RD
+6/18/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 23, 2019 @ 12:41 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/e51c02be-7551-4aab-a2d2-fa1e698e99b8
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00121219
+900 BLOCK  HANOVER DR
+6/22/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 3RD - CREDIT CARD/ATM FRAUD
+2019-00121056
+2500 BLOCK  CLOWER ST
+6/22/2019 @ 10:30 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00120815
+2500 BLOCK  LOWER WETUMPKA RD
+6/22/2019 @ 3:30 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00121024
+0 BLOCK  CHISHOLM ST
+6/22/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00120890
+700 BLOCK  COLISEUM BLVD
+6/21/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00120999
+2700 BLOCK  LOWER WETUMPKA RD
+6/17/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 23, 2019 @ 12:41 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/7dde2be4-721c-442d-b668-53e6b9c749ba
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00120433
+3400 BLOCK  HARRIS ST
+6/21/2019 @ 6:30 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 22, 2019 @ 12:31 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/50c2d41d-9acd-4452-b8d8-e9fa3d25e556
+
+
+
+Fraud
+
+THEFT 3RD - CREDIT CARD/ATM FRAUD
+2019-00120448
+600 BLOCK N  PERRY ST
+6/21/2019 @ 1:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00120264
+700 BLOCK RYAN ST
+6/21/2019 @ 10:20 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM YARD
+2019-00120179
+400 BLOCK  KAHN ST
+6/20/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Homicide
+
+HOMICIDE/MURDER - NON-FAMILY GUN
+2019-00119939
+1800 BLOCK  GIBBS CIR
+6/20/2019 @ 9:19 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - OTHER
+2019-00119887
+2300 BLOCK  BOONE ST
+6/20/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00120376
+1400 BLOCK S  PERRY ST
+6/20/2019 @ 3:40 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00115747
+300 BLOCK N  RIPLEY ST
+6/12/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 22, 2019 @ 12:31 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/ec43c38e-fdbb-4eac-bb0b-a692de9ec3bf
+
+
+
+Burglary
+
+BURGLARY 1ST - RESIDENCE - FORCE
+2019-00119890
+1700 BLOCK  GLORIA CT
+6/20/2019 @ 7:40 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00119684
+2000 BLOCK  RIGBY ST
+6/19/2019 @ 11:45 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - AUTO THEFT/SALE
+2019-00119662
+2000 BLOCK  JOHNSON ST
+6/19/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 3RD - CREDIT CARD/ATM FRAUD
+2019-00119790
+3400 BLOCK  FLINTSTONE CT
+6/18/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00119770
+1800 BLOCK  COTTON CT
+6/18/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 21, 2019 @ 12:58 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/5b96417f-2b06-4175-bb0e-e7284b5b6d5d
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00119789
+1000 BLOCK  WOODLEY RD
+6/20/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00119647
+1800 BLOCK  HIGHLAND AV
+6/20/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD AGGRAVATED FAMILY - KNIFE
+2019-00119565
+2200 BLOCK E  THIRD ST
+6/20/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00119536
+2700 BLOCK  BOULTIER ST
+6/19/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00119608
+1800 BLOCK  GIBBS CIR
+6/19/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00119569
+1400 BLOCK  BRAGG ST
+6/19/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00119521
+900 BLOCK  OAK ST
+6/19/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00119730
+0 BLOCK  MILDRED ST
+6/18/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Fraud
+
+POSSESSION FORGED INSTRUMENT 3RD - POSSESSION
+2019-00119579
+3200 BLOCK  DORIS CIR
+6/17/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00119480
+1100 BLOCK N  COURT ST
+6/14/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Fraud
+
+ILLEGAL POSSESSION/USE OF CREDIT/DEBIT CARD
+2019-00112849
+300 BLOCK N  RIPLEY ST
+6/7/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 21, 2019 @ 12:58 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 2 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+2 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/7e26fdcf-878f-4f92-9c55-fc3859201602
+
+
+
+Robbery
+
+ROBBERY 1ST - STREET - GUN
+2019-00119063
+AMANDA LN  &  LOWER WETUMPKA RD
+6/19/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 3RD - RESIDENCE - STRONG ARM
+2019-00118838
+3400 BLOCK  FAIRGROUND RD
+6/19/2019 @ 9:20 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 20, 2019 @ 01:00 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 10 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+10 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/eaa76139-dd31-48b5-a1a9-cd9b723b94e4
+
+
+
+Drugs / Alcohol Violations
+
+PROMOTE PRISON CONTRABAND 2ND - DRUG/SMUGGLE DRUG
+2019-00119196
+300 BLOCK N  RIPLEY ST
+6/19/2019 @ 6:40 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+PROMOTE PRISON CONTRABAND 2ND - DRUG/SMUGGLE DRUG
+2019-00119186
+300 BLOCK N  RIPLEY ST
+6/19/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - POLICE OFFICER - OTHER WEAPON
+2019-00119089
+EARLY ST
+6/19/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - BICYCLE
+2019-00118994
+S COURT ST
+6/19/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00118732
+2200 BLOCK E  SIXTH ST
+6/19/2019 @ 5:20 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00118867
+900 BLOCK  HUGH ST
+6/19/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM YARD
+2019-00118937
+1700 BLOCK S  HOLT ST
+6/18/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00118858
+1500 BLOCK  OAKLAND ST
+6/18/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Sex Crimes
+
+CRIMINAL SURVEILLANCE - PEEPING TOM
+2019-00118092
+200 BLOCK  HIGH ST
+6/18/2019 @ 9:20 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00118962
+2200 BLOCK JULIETTE ST
+6/17/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 20, 2019 @ 01:00 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f0b68845-0023-46e1-94b3-52d0509ccb2a
+
+
+
+Assault
+
+HARASSMENT
+2019-00118373
+2400 BLOCK  CHASE PARK DR
+6/18/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00118284
+1800 BLOCK  AUSTIN ST
+6/18/2019 @ 2:33 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00118398
+1800 BLOCK  AUSTIN ST
+6/18/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00117796
+3700 BLOCK  DALRAIDA PKWY
+6/17/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - AUTO THEFT/SALE
+2019-00118058
+2300 BLOCK  CONCRETE DR
+6/16/2019 @ 1:48 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 19, 2019 @ 01:01 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 17 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+17 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/06d9d130-ee6b-4bbb-8509-30428474d124
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00118424
+800 BLOCK  ERSKINE ST
+6/18/2019 @ 6:08 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00118418
+200 BLOCK S  JACKSON ST
+6/18/2019 @ 5:52 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00118673
+1500 BLOCK  SIERRA ST
+6/18/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00118252
+1700 BLOCK  PINE ST
+6/18/2019 @ 1:36 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00118240
+I-65 NORTHBOUND
+6/18/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00118220
+3400 BLOCK S  PERRY ST
+6/18/2019 @ 12:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00118174
+1600 BLOCK S  DECATUR ST
+6/18/2019 @ 11:45 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00118137
+400 BLOCK S  COURT ST
+6/18/2019 @ 10:40 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00117769
+1700 BLOCK  CARTER HILL RD
+6/17/2019 @ 8:45 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00118000
+700 BLOCK  MALVERN ST
+6/17/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00117676
+600 BLOCK W  FAIRVIEW AV
+6/17/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00118067
+900 BLOCK  THOMAS CT
+6/17/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00117143
+300 BLOCK  MONTGOMERY ST
+6/16/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00118088
+200 BLOCK  WAYNE ST
+6/16/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+FORGERY 3RD - CHECKS
+2019-00118364
+100 BLOCK S  CAPITOL PKWY
+6/14/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 2ND - SWINDLE
+2019-00118241
+400 BLOCK  GLENMORE RD
+6/12/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00118108
+1800 BLOCK W  FOURTH ST
+6/1/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 19, 2019 @ 01:01 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 28 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+28 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/1f02cc2d-6730-4da8-b7d4-4d3529d43f45
+
+
+
+Robbery
+
+ROBBERY 3RD - RESIDENCE - STRONG ARM
+2019-00117858
+2100 BLOCK  PLUM ST
+6/17/2019 @ 11:17 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00117679
+1600 BLOCK S  DECATUR ST
+6/17/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - THEFT OF PROPERTY/SHOPLIFTING  OVER $2500
+2019-00117291
+600 BLOCK  PONCE DE LEON AVE
+6/17/2019 @ 5:00 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - ASSAULT NON-FAMILY - KNIFE
+2019-00117186
+1800 BLOCK  GIBBS CIR
+6/17/2019 @ 12:15 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00117089
+100 BLOCK W  HANNON ST
+6/16/2019 @ 8:49 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00117280
+100 BLOCK  DUNCAN DR
+6/16/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00117564
+600 BLOCK  MAXWELL BLVD
+6/16/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00117007
+400 BLOCK W  FAIRVIEW AV
+6/16/2019 @ 6:35 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00117010
+2400 BLOCK  CROSSWAY DR
+6/16/2019 @ 6:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00117659
+1600 BLOCK E  WASHINGTON ST
+6/16/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00116975
+800 BLOCK W  FAIRVIEW AV
+6/16/2019 @ 5:28 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00116548
+AGATE ST
+6/15/2019 @ 11:15 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00116433
+1700 BLOCK  PINE ST
+6/15/2019 @ 8:31 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - OTHER
+2019-00117075
+1900 BLOCK  MCKINLEY AV
+6/15/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - NON-RESIDENCE - NO FORCE
+2019-00116351
+2100 BLOCK  SPRUCE ST
+6/15/2019 @ 5:45 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00116076
+900 BLOCK  ALMA DR
+6/15/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00115912
+1800 BLOCK  MADISON AV
+6/15/2019 @ 1:25 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00115916
+1900 BLOCK  GIBBS DR
+6/15/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00115818
+500 BLOCK S  MCDONOUGH ST
+6/14/2019 @ 10:45 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00115741
+1400 BLOCK  HALE ST
+6/14/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM YARD
+2019-00116009
+400 BLOCK  CLAYTON PARK
+6/14/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00116157
+2000 BLOCK  PALMETTO ST
+6/14/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00116034
+2000 BLOCK W  FAIRVIEW AV
+6/14/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00115669
+800 BLOCK S  UNION ST
+6/14/2019 @ 8:20 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00116295
+1100 BLOCK  EDGAR D NIXON AV
+6/13/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+COMM. UNAUTHORIZED USE OF AUTO
+2019-00116271
+1500 BLOCK WOODLEY RD
+6/13/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Fraud
+
+IDENTITY THEFT 1ST - FINANCIAL LOSS > $250
+2019-00117399
+600 BLOCK  MILL ST
+6/4/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - FROM PUBLIC BUILDING
+2019-00117529
+0 BLOCK  DEXTER AV
+6/3/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 18, 2019 @ 01:21 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 15 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+15 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/57e9b478-183f-4dda-b148-1a23d667fac4
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00117346
+1900 BLOCK JOHNSON AVE
+6/17/2019 @ 8:30 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00117358
+3300 BLOCK  LOWER WETUMPKA RD
+6/17/2019 @ 2:00 AM
+Montgomery Police
+
+
+
+Assault
+
+MENACING - AGG ASSAULT DOMESTIC - GUN/KNIFE/OTHER WEAPON
+2019-00117057
+500 BLOCK  OAKBROOK CT
+6/16/2019 @ 7:50 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00116481
+3900 BLOCK  CEDAR AV
+6/15/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00117070
+200 BLOCK  LONGBROOK DR
+6/15/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Assault
+
+MENACING - AGG ASSAULT - GUN/KNIFE/OTHER WEAPON
+2019-00116232
+1500 BLOCK  FEDERAL DR
+6/15/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00116883
+1600 BLOCK  FEDERAL DR
+6/15/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00116062
+100 BLOCK  TURNER PL
+6/15/2019 @ 1:18 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00116174
+1900 BLOCK  GIBSON ST
+6/14/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00117183
+3400 BLOCK  FLINTSTONE CT
+6/14/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00115874
+500 BLOCK  OAKBROOK CT
+6/14/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00115901
+3600 BLOCK  MAYFAIR RD
+6/14/2019 @ 12:50 PM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00117430
+2600 BLOCK  GUNTER PARK DR E
+6/14/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM RESIDENCE
+2019-00117441
+400 BLOCK  EMPIRE TER
+6/3/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00117456
+100 BLOCK  DESTIN ST
+6/3/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 18, 2019 @ 01:21 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/48e3b381-fc8b-4a05-b7d2-a970d931216b
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00115636
+500 BLOCK  ROSA L PARKS AV
+6/14/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00115527
+GIBBS CT  &  GIBBS CIR
+6/14/2019 @ 2:40 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00115439
+800 BLOCK  DORIS CIR
+6/14/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00115284
+2000 BLOCK  LEBRON AV
+6/13/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00115486
+3000 BLOCK  ROSA L PARKS AVE
+6/13/2019 @ 1:30 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT BY FRAUD VALUE >$100
+2019-00115551
+300 BLOCK  MOLTON ST
+6/6/2019 @ 5:03 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 15, 2019 @ 12:33 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/2d6be56b-f945-4ef2-b3a3-8c93074b6073
+
+
+
+Theft / Larceny
+
+UBEV - STRIPPING STOLEN VEHICLES
+2019-00114845
+1200 BLOCK HILLMAN CT
+6/8/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 15, 2019 @ 12:33 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/84031d9e-8fb1-4d0e-bd16-0585f9804b7e
+
+
+
+Assault
+
+ASSAULT 2ND - ASSAULT NON-FAMILY - STRONG ARM
+2019-00115186
+500 BLOCK W  FAIRVIEW AV
+6/14/2019 @ 12:30 AM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 3RD - STREET - STRONG ARM
+2019-00115121
+700 BLOCK  MADISON AV
+6/13/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00114976
+SUWANEE DR
+6/13/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00115044
+300 BLOCK  MONTGOMERY ST
+6/13/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00114803
+2100 BLOCK E  FIFTH ST
+6/13/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00114683
+600 BLOCK  THORN PL
+6/13/2019 @ 9:57 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 14, 2019 @ 12:50 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 13 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+13 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/85200807-42b5-49e2-aa9f-19ee90ef37a2
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00114420
+700 BLOCK S PERRY ST
+6/12/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00114322
+300 BLOCK W  FAIRVIEW AV
+6/12/2019 @ 7:15 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00114311
+700 BLOCK S PERRY ST
+6/12/2019 @ 6:15 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00114253
+300 BLOCK W  FAIRVIEW AV
+6/12/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FIREARMS
+2019-00114108
+1400 BLOCK  MULBERRY ST
+6/12/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00114076
+900 BLOCK  RYAN ST
+6/12/2019 @ 11:34 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00113934
+2500 BLOCK  CHESTNUT ST
+6/12/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00113770
+2200 BLOCK  LOCUST ST
+6/11/2019 @ 11:40 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00113921
+500 BLOCK  HOLCOMBE ST
+6/11/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Assault
+
+MENACING - AGG ASSAULT - GUN/KNIFE/OTHER WEAPON
+2019-00113694
+WOODLEY RD
+6/11/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00113977
+1800 BLOCK  ST CHARLES AV
+6/11/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00111395
+2100 BLOCK  SPRUCE ST
+6/7/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00114316
+100 BLOCK W  EDGEMONT AV
+5/27/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 13, 2019 @ 01:37 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/31935132-f43c-4e47-aba0-6ff83926fd35
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00114254
+1600 BLOCK  FEDERAL DR
+6/12/2019 @ 2:39 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00114107
+0 BLOCK  MICHIGAN AVE
+6/12/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00113975
+400 BLOCK  BROOKVIEW DR
+6/11/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 13, 2019 @ 01:37 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 12 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+12 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/580d8a84-c9ed-4193-b113-856b50d5ab8b
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 2ND - DAMAGE TO PRIVATE PROPERTY
+2019-00113503
+1600 BLOCK  FEDERAL DR
+6/11/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - RESIDENCE - GUN
+2019-00113447
+500 BLOCK  4TH ST
+6/11/2019 @ 1:40 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00113231
+200 BLOCK  BRIARBROOK DR
+6/11/2019 @ 7:45 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - OTHER
+2019-00113130
+3400 BLOCK  EAST ST
+6/11/2019 @ 2:30 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00113382
+0 BLOCK E  VANDIVER BLVD
+6/10/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00112881
+2000 BLOCK  SPEIGLE ST
+6/10/2019 @ 6:12 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00113020
+500 BLOCK  5TH ST
+6/10/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00113054
+100 BLOCK  DYAS CT
+6/10/2019 @ 12:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00112443
+1900 BLOCK  COLISEUM BLVD
+6/8/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00112556
+400 BLOCK  EMPIRE RD
+6/8/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00113401
+3100 BLOCK W  MICHIGAN AVE
+6/7/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00113341
+300 BLOCK  DYAS DR
+6/7/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 12, 2019 @ 02:08 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 20 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+20 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/461e9380-1c2b-41c0-a71d-6330f6f08512
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00113690
+3200 BLOCK S  COURT ST
+6/11/2019 @ 8:20 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00113702
+300 BLOCK W  FAIRVIEW AV
+6/11/2019 @ 7:40 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00113481
+1200 BLOCK  CARTER HILL RD
+6/11/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00113374
+1500 BLOCK  WESTCOTT ST
+6/11/2019 @ 11:40 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00113494
+400 BLOCK  ELM ST
+6/11/2019 @ 6:30 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00113361
+600 BLOCK N  PERRY ST
+6/11/2019 @ 2:20 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00113096
+2200 BLOCK E  SIXTH ST
+6/11/2019 @ 1:07 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00113072
+1100 BLOCK  CARTER HILL RD
+6/11/2019 @ 12:05 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00112811
+300 BLOCK W  FAIRVIEW AV
+6/10/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00112783
+2300 BLOCK  BOONE ST
+6/10/2019 @ 2:15 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00112758
+2100 BLOCK  GREENVILLE ST
+6/9/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00112565
+300 BLOCK  FELDER AVE
+6/9/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00113245
+2300 BLOCK  LOCUST ST
+6/9/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00112520
+2100 BLOCK  SPRUCE ST
+6/9/2019 @ 4:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00113484
+600 BLOCK  HOLCOMBE ST
+6/8/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Fraud
+
+FRAUDULENT USE OF CREDIT/DEBIT CARD
+2019-00113402
+2100 BLOCK  ST CHARLES AV
+6/8/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00112517
+400 BLOCK S  PERRY ST
+6/7/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - OTHER VEHICLE
+2019-00112600
+1100 BLOCK E  FAIRVIEW AV
+6/7/2019 @ 10:36 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00112489
+700 BLOCK W  SHAWNEE DR
+6/7/2019 @ 7:30 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00112943
+3400 BLOCK  ROSA L PARKS AV
+5/27/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 12, 2019 @ 02:08 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/552c134e-fd0b-45ce-83a6-5d3f8a80e70b
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00112216
+1000 BLOCK  COLISEUM BLVD
+6/9/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00111963
+1700 BLOCK  MIDWAY ST
+6/9/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00111926
+3500 BLOCK  PELZER AV
+6/9/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00111766
+1700 BLOCK  CHAMPION ST
+6/8/2019 @ 11:51 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00111574
+200 BLOCK  BROADWAY ST
+6/8/2019 @ 6:25 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00112145
+200 BLOCK  LONGBROOK DR
+6/8/2019 @ 6:30 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 10, 2019 @ 01:06 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/338f27ae-2104-4a31-ab37-81dc33db7b64
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00112189
+700 BLOCK  COLUMBIA AV
+6/9/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00112038
+1000 BLOCK  OAK ST
+6/9/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00111954
+300 BLOCK W  FAIRVIEW AV
+6/9/2019 @ 8:35 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00112041
+100 BLOCK  COMMERCE ST
+6/8/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00111919
+0 BLOCK E  JEFFERSON ST
+6/8/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00109216
+1000 BLOCK  OAK ST
+5/22/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 10, 2019 @ 01:06 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/48700d8f-53ea-4bb9-b997-d7924265a887
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - COERCION / SIMPLE ASSAULT
+2019-00111540
+3400 BLOCK  DALRAIDA PKWY
+6/8/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00111228
+1700 BLOCK  GIBSON ST
+6/8/2019 @ 5:50 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00105088
+3300 BLOCK  BILTMORE AV
+5/30/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 09, 2019 @ 12:36 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/2c23292e-d375-4d43-a90f-9cc8624690f9
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00111739
+700 BLOCK  RIDGEMONT AV
+6/8/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00111470
+RANDOLPH ST
+6/8/2019 @ 5:15 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00111301
+2000 BLOCK  HAZEL HEDGE LN
+6/8/2019 @ 3:42 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00111260
+300 BLOCK  CLOVERDALE RD
+6/7/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00111254
+100 BLOCK  STUART ST
+6/7/2019 @ 9:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00111216
+300 BLOCK  TALLAPOOSA ST
+6/7/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00111575
+1000 BLOCK  SAYRE ST
+6/7/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 09, 2019 @ 12:36 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/8da96942-cf20-422d-8052-dfdac86cb4fb
+
+
+
+Assault
+
+ASSAULT 2ND - ASSAULT NON-FAMILY - KNIFE
+2019-00111051
+1700 BLOCK  PINE ST
+6/7/2019 @ 10:45 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00110590
+BANKHEAD AVE
+6/7/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00110897
+400 BLOCK  CAPITOL PKWY CT
+6/7/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00110521
+2100 BLOCK  GREENVILLE ST
+6/6/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION MARIJUANA 2ND
+2019-00110254
+1700 BLOCK  CARTER HILL RD
+6/6/2019 @ 8:05 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00110236
+200 BLOCK S  JACKSON ST
+6/6/2019 @ 7:40 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00110938
+1900 BLOCK  WINONA AV
+6/6/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00109850
+500 BLOCK  HANK WAY
+6/6/2019 @ 7:30 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+UNAUTHORIZED USE OF VEHICLE - NO FORCE
+2019-00109580
+400 BLOCK E  FAIRVIEW AV
+6/4/2019 @ 7:30 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 3RD - SWINDLE
+2019-00110588
+2300 BLOCK  PALMETTO ST
+6/4/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FROM RESIDENCE
+2019-00105585
+3300 BLOCK  NORMAN BRIDGE RD
+5/31/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 08, 2019 @ 12:24 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/20de7617-75ab-40d9-b428-28c994a6b5d9
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00110425
+2800 BLOCK  SUMTER AV
+6/7/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00110287
+900 BLOCK  VISTA VIEW PL
+6/6/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00110203
+3400 BLOCK  LOWER WETUMPKA RD
+6/6/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION OF CONTROLLED SUBSTANCE - COCAINE - POSESS
+2019-00110000
+LOWER WETUMPKA RD  &  KIWANIS ST
+6/6/2019 @ 10:30 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00110576
+900 BLOCK  GRENADA DR
+6/6/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00106807
+100 BLOCK  AMANDA LN
+6/2/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Sex Crimes
+
+SODOMY 1ST - WITH A BOY - STRONG ARM
+2019-00107697
+2400 BLOCK  CHASE PARK DR
+5/27/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 08, 2019 @ 12:24 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/08b4bd53-dd28-4b32-9065-498415525fe0
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00109195
+400 BLOCK  ELM ST
+6/5/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00109104
+800 BLOCK  ALMA DR
+6/5/2019 @ 2:37 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00109014
+3400 BLOCK S  COURT ST
+6/4/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00108788
+900 BLOCK S  UNION ST
+6/4/2019 @ 8:27 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00108727
+1900 BLOCK  PLUM ST
+6/4/2019 @ 7:25 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00108967
+1200 BLOCK N  MCDONOUGH ST
+6/4/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00108668
+1800 BLOCK  GIBBS CIR
+6/4/2019 @ 7:20 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00109484
+1300 BLOCK  FELDER AV
+6/1/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00109331
+600 BLOCK S  CAPITOL PKWY
+5/30/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00107709
+100 BLOCK  COURTLAND DR
+5/30/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00109498
+1800 BLOCK  PLUM ST
+5/26/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 06, 2019 @ 01:19 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/7b5ba645-3a1c-4d33-9c13-c706ed5c93f4
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00108855
+1700 BLOCK  YARBROUGH ST
+6/4/2019 @ 10:27 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00108623
+2800 BLOCK  MONTROSE AV
+6/3/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00109159
+200 BLOCK  2ND ST
+6/3/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 06, 2019 @ 01:19 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f5be1a5a-9ce5-43cd-a19f-c8941d7671ba
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00108603
+400 BLOCK  HALL ST
+6/4/2019 @ 4:15 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 1ST - NON-FAMILY - KNIFE
+2019-00108086
+2100 BLOCK E  FOURTH ST
+6/3/2019 @ 10:25 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - NON-RESIDENCE - NO FORCE
+2019-00108516
+0 BLOCK  HOWARD ST
+6/3/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00108290
+300 BLOCK  CLOVERDALE RD
+6/3/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00108286
+3000 BLOCK  ELDER ST
+6/3/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00108708
+GROVE ST
+6/3/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00107907
+200 BLOCK W  JEFF DAVIS AV
+6/2/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION/RECEIPT OF CONTROLLED SUBSTANCE
+2019-00095005
+700 BLOCK  MALVERN ST
+5/16/2019 @ 5:49 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 05, 2019 @ 01:58 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/75db6f72-095e-4e5b-b4d1-7aa4d29bdb18
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00108417
+600 BLOCK  NORTH PASS RD
+6/4/2019 @ 10:40 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00108319
+100 BLOCK  COOK AV
+6/4/2019 @ 6:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00108444
+3000 BLOCK  MIDWAY CT
+6/1/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 05, 2019 @ 01:58 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 9 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+9 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/a3f666be-74f8-4089-ac81-01990aaa9b20
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00107459
+1200 BLOCK  BELVIEW ST
+6/3/2019 @ 1:20 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00107616
+2100 BLOCK  HIGHLAND AV
+6/3/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00107432
+N  LAWRENCE ST  & E  JEFFERSON ST
+6/3/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00107930
+1300 BLOCK  MADISON AV
+6/2/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00107645
+1700 BLOCK  MT MEIGS RD
+6/2/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - COERCION / SIMPLE ASSAULT
+2019-00106350
+1700 BLOCK  PINE ST
+6/1/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00107529
+0 BLOCK  STUART ST
+5/31/2019 @ 11:30 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - AUTO THEFT/SALE
+2019-00107720
+1800 BLOCK W  SECOND ST
+5/31/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - PUBLIC BUILDING
+2019-00105107
+1000 BLOCK  MADISON AVE
+5/29/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 04, 2019 @ 01:50 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/7b57fb15-7c12-486b-a146-0c41ca7e17d5
+
+
+
+Motor Vehicle Theft
+
+UNAUTHORIZED USE OF VEHICLE - NO FORCE
+2019-00107789
+300 BLOCK  EDWARD ST
+5/31/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 04, 2019 @ 01:50 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/ce8440a2-2f55-45e3-a902-8333ac164294
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00107160
+2500 BLOCK  LOWER WETUMPKA RD
+6/2/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00107030
+300 BLOCK  CHISHOLM ST
+6/2/2019 @ 11:38 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00106703
+600 BLOCK  NORTH PASS RD
+6/1/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FROM YARD
+2019-00107124
+2700 BLOCK  SKYLINE AV
+6/1/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 03, 2019 @ 01:30 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 9 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+9 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f0121b4f-ba04-45a6-995b-5744f3ff6768
+
+
+
+Assault
+
+ASSAULT 1ST - NON-FAMILY - GUN
+2019-00107424
+1500 BLOCK  HALE ST
+6/3/2019 @ 12:27 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00107329
+300 BLOCK W  FAIRVIEW AV
+6/2/2019 @ 9:11 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00107228
+GROVE ST
+6/2/2019 @ 6:43 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00107140
+1100 BLOCK  PERSONS ST
+6/2/2019 @ 3:40 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00107103
+1700 BLOCK  PINE ST
+6/2/2019 @ 2:20 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00106941
+200 BLOCK S  JACKSON ST
+6/2/2019 @ 8:15 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00106821
+800 BLOCK S  HOLT ST
+6/2/2019 @ 2:36 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00106925
+3300 BLOCK S  HULL ST
+6/1/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00106929
+800 BLOCK  MILL ST
+6/1/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 03, 2019 @ 01:30 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/844cab34-5a13-44d1-a9ae-3aa753b02175
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00106216
+1700 BLOCK  RHODES ST
+6/1/2019 @ 7:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - BICYCLE
+2019-00106202
+1900 BLOCK  MYLES ST
+5/31/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00106252
+500 BLOCK  MYRTLE ST
+5/31/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00106303
+1300 BLOCK  ADAMS AVE
+5/31/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 02, 2019 @ 12:55 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/d26a5d3d-24af-4435-a63a-301f81cf9586
+
+
+
+Assault
+
+ASSAULT 3RD AGGRAVATED NON-FAMILY - OTHER WEAPON
+2019-00106392
+2500 BLOCK  LOWER WETUMPKA RD
+6/1/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00106447
+900 BLOCK  MONTERO DR
+6/1/2019 @ 10:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00106298
+2700 BLOCK GUNTER PARK DR
+6/1/2019 @ 8:30 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 02, 2019 @ 12:55 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/140bc4c4-a69a-475d-b766-7df6cfa4a8f7
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00105830
+500 BLOCK  STONE ST
+5/31/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00105459
+200 BLOCK  GEORGIA ST
+5/30/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00105713
+0 BLOCK W  HANNON ST
+5/30/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM RESIDENCE
+2019-00105587
+900 BLOCK  ADELINE ST
+5/30/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Sex Crimes
+
+SEXUAL ABUSE 1ST - SEXUAL CONTACT - COMPULSION - NO CONSENT
+2019-00105044
+1500 BLOCK  MADISON AV
+5/30/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00105754
+2300 BLOCK  LOCUST ST
+5/29/2019 @ 9:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: June 01, 2019 @ 01:03 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/b540b3f2-efdc-4860-a073-e556ac68d51d
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00106025
+1200 BLOCK  FEDERAL DR
+5/31/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00105323
+1000 BLOCK  ROSEDALE DR
+5/31/2019 @ 1:06 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00105312
+200 BLOCK E  VANDIVER BLVD
+5/31/2019 @ 12:55 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: June 01, 2019 @ 01:03 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/33fab15c-6b75-4068-aed7-1fc37d84dff3
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 2ND - AGG  ASSAULT FAMILY - GUN, KNIFE, STRONG ARM, OTHER WEAP
+2019-00105224
+400 BLOCK  MAURY ST
+5/30/2019 @ 9:31 PM
+Montgomery Police
+
+
+
+Weapons
+
+POSSESS/SALE OF SHORT RIFLE/SHOTGUN
+2019-00105118
+3400 BLOCK  LEBRON RD
+5/30/2019 @ 6:38 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00104760
+2000 BLOCK N  COUNTRY CLUB DR
+5/30/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00104671
+700 BLOCK S  PERRY ST
+5/30/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - COERCION / SIMPLE ASSAULT
+2019-00104524
+2000 BLOCK  HILL ST
+5/29/2019 @ 10:35 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00105131
+1200 BLOCK  CARTER HILL RD
+5/29/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00105145
+1700 BLOCK  PINE ST
+5/29/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 2ND - DAMAGE TO PRIVATE PROPERTY
+2019-00104704
+1700 BLOCK  LANIER LN
+5/29/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00097315
+1500 BLOCK  LYNDLE RD
+5/20/2019 @ 1:35 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00104918
+2000 BLOCK  HAZEL HEDGE LN
+5/19/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+DRUG TRAFFICKING
+2019-00094249
+I-65 SOUTHBOUND / W FAIRVIEW AVE
+5/15/2019 @ 4:15 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 31, 2019 @ 01:30 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 4 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+4 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/4b919701-4cea-4a62-9bdc-cb32b41eb483
+
+
+
+Assault
+
+HARASSMENT
+2019-00105215
+200 BLOCK  LONGBROOK DR
+5/30/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM A PUBLIC BUILDING
+2019-00105020
+500 BLOCK E  VANDIVER BLVD
+5/30/2019 @ 3:01 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 3RD - FROM RESIDENCE
+2019-00104939
+800 BLOCK  WESTOVER RD
+5/30/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00104907
+500 BLOCK  WOODBROOK DR
+5/29/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 31, 2019 @ 01:30 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/3b86c1a0-2732-4d0a-a1e4-27dc8b98e380
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00104477
+2000 BLOCK  COLISEUM BLVD
+5/29/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00103677
+1600 BLOCK  YARBROUGH ST
+5/28/2019 @ 8:15 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00103708
+1200 BLOCK  VISTA TERRACE DR
+5/28/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00104092
+300 BLOCK  3RD ST
+5/28/2019 @ 2:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00102818
+3000 BLOCK  WILLENA AV
+5/27/2019 @ 3:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 30, 2019 @ 01:35 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/d73cbfaf-4091-46a6-9f92-f6753224dcb5
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00104377
+3000 BLOCK  ROSA L PARKS AV
+5/29/2019 @ 7:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00104285
+400 BLOCK W  FAIRVIEW AV
+5/29/2019 @ 4:24 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00104148
+2400 BLOCK  PLUM ST
+5/29/2019 @ 4:40 AM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+PROMOTE PRISON CONTRABAND 2ND - DRUG/SMUGGLE DRUG
+2019-00104020
+300 BLOCK N  RIPLEY ST
+5/29/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00103965
+300 BLOCK S  HOPPER ST
+5/28/2019 @ 10:22 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FROM YARD
+2019-00103943
+1200 BLOCK S  LAWRENCE ST
+5/28/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 30, 2019 @ 01:35 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 13 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+13 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/743f9dd0-7535-449b-bf4e-10b7f07beaa5
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00103648
+1500 BLOCK  FOREST AV
+5/28/2019 @ 7:20 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 4TH - SWINDLE
+2019-00103686
+2200 BLOCK E  FOURTH ST
+5/28/2019 @ 7:20 PM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 1ST - BUSINESS - GUN
+2019-00103635
+400 BLOCK W  FAIRVIEW AV
+5/28/2019 @ 7:10 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00103638
+N DECATUR ST / HALE ST
+5/28/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00103445
+2000 BLOCK E  SECOND ST
+5/28/2019 @ 1:34 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00103427
+500 BLOCK W  FAIRVIEW AV
+5/28/2019 @ 1:05 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00103184
+700 BLOCK S  COURT ST
+5/28/2019 @ 7:15 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00103185
+1500 BLOCK  LAKE ST
+5/28/2019 @ 12:20 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00103178
+2000 BLOCK  WINONA AV
+5/28/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00102772
+1700 BLOCK  PINE ST
+5/27/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00102822
+3300 BLOCK  AUDUBON RD
+5/27/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00103324
+400 BLOCK  MADISON AVE
+5/26/2019 @ 12:30 PM
+Montgomery Police
+
+
+
+Fraud
+
+THEFT 4TH - EMBEZZLEMENT - BUSINESS PROPERTY
+2019-00101279
+0 BLOCK  DEXTER AV
+5/25/2019 @ 1:05 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 29, 2019 @ 01:29 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/c1f32880-039f-49ce-9ac2-a3dde689f01d
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00103655
+100 BLOCK  CONLEY CIR
+5/28/2019 @ 7:00 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION OF CONTROLLED SUBSTANCE - METHAMPHETAMINE POSSESS
+2019-00103371
+BILTMORE AVE
+5/28/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00103276
+2000 BLOCK  HARMON ST
+5/28/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00103129
+400 BLOCK E  PARK AV
+5/28/2019 @ 4:00 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - NON-FAMILY - GUN
+2019-00102971
+400 BLOCK  GARDENDALE DR
+5/27/2019 @ 10:50 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00102939
+500 BLOCK  CHISHOLM ST
+5/27/2019 @ 10:17 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00102837
+FAIRGROUND RD
+5/27/2019 @ 7:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00103164
+2800 BLOCK  LOWER WETUMPKA RD
+5/27/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00103340
+1900 BLOCK  YARBROUGH ST
+5/27/2019 @ 3:00 AM
+Montgomery Police
+
+
+
+Fraud
+
+OBSTRUCT JUSTICE USING FALSE IDENTITY
+2019-00100394
+1100 BLOCK  COLISEUM BLVD
+5/24/2019 @ 10:00 AM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00100601
+4100 BLOCK  OCONEE DR
+5/24/2019 @ 7:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 29, 2019 @ 01:29 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/4ae6334d-0da2-477a-874e-bd5f0fc81286
+
+
+
+Robbery
+
+ROBBERY 2ND - STREET - STRONG ARM
+2019-00102832
+LOWER WETUMPKA RD  &  MICHIGAN AVE
+5/27/2019 @ 7:40 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00102731
+0 BLOCK E  PARK AV
+5/27/2019 @ 5:15 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00102532
+2000 BLOCK  SPEIGLE ST
+5/27/2019 @ 9:20 AM
+Montgomery Police
+
+
+
+Burglary
+
+DOMESTIC VIOLENCE 2ND - BURGLARY 2ND/3RD RESIDENCE - FORCE
+2019-00102021
+3100 BLOCK  TEXAS ST
+5/26/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FIREARMS
+2019-00102163
+1600 BLOCK  YARBROUGH ST
+5/26/2019 @ 6:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00102501
+3400 BLOCK  EAST ST
+5/24/2019 @ 11:39 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 28, 2019 @ 02:01 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/40942c53-4e22-40bd-8b91-3f99236df267
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00102628
+500 BLOCK S  UNION ST
+5/27/2019 @ 12:30 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD - DAMAGE TO BUSINESS PROPERTY
+2019-00102360
+3100 BLOCK  ROSA L PARKS AV
+5/27/2019 @ 1:35 AM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00102352
+300 BLOCK W  FAIRVIEW AV
+5/27/2019 @ 1:20 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00102492
+800 BLOCK  TUSCALOOSA ST
+5/27/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00102193
+400 BLOCK  HALL ST
+5/26/2019 @ 8:25 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00102554
+1000 BLOCK S  COURT ST
+5/26/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00102593
+1300 BLOCK  ADAMS AVE
+5/25/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 28, 2019 @ 02:01 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/57681378-33fd-41f4-9cb3-eb0a9fdbcccb
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00102037
+500 BLOCK S  UNION ST
+5/26/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00101897
+300 BLOCK N  RIPLEY ST
+5/26/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00102034
+400 BLOCK  HALL ST
+5/26/2019 @ 10:23 AM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00101882
+300 BLOCK  EARLY ST
+5/26/2019 @ 9:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00101793
+200 BLOCK  CENTENNIAL CIR
+5/26/2019 @ 3:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 2ND - DAMAGE TO PRIVATE PROPERTY
+2019-00101795
+400 BLOCK  FINLEY AV
+5/25/2019 @ 9:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00100508
+800 BLOCK S  PERRY ST
+5/24/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 27, 2019 @ 12:22 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/fb51997f-1243-4b1d-b802-e20ab6e93a8c
+
+
+
+Assault
+
+HARASSMENT
+2019-00101996
+500 BLOCK  CONRAD ST
+5/26/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 27, 2019 @ 12:22 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 11 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+11 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/ff094a71-9d0e-427c-b41d-3ea198ec836c
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00101641
+400 BLOCK  MAURY ST
+5/25/2019 @ 11:30 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00101620
+0 BLOCK  STUART ST
+5/25/2019 @ 11:10 PM
+Montgomery Police
+
+
+
+Vandalism
+
+DOMESTIC VIOLENCE 3RD- CRIMINAL MISCHIEF 2ND- DAMAGE TO PRIVATE PROPERTY
+2019-00101639
+300 BLOCK  EARLY ST
+5/25/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - MENACING - GUN/KNIFE/STRON ARM/OTHER WEAPON
+2019-00101591
+1600 BLOCK E  WASHINGTON ST
+5/25/2019 @ 10:20 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00101570
+2000 BLOCK S  HULL ST
+5/25/2019 @ 9:45 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT
+2019-00101391
+2200 BLOCK E  FOURTH ST
+5/25/2019 @ 4:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00101386
+500 BLOCK  COLUMBIA AV
+5/25/2019 @ 3:45 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD AGGRAVATED NON-FAMILY - KNIFE
+2019-00100972
+700 BLOCK W  FAIRVIEW AV
+5/25/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00100828
+1700 BLOCK  CARTER HILL RD
+5/24/2019 @ 9:19 PM
+Montgomery Police
+
+
+
+Assault
+
+DOMESTIC VIOLENCE 3RD - SIMPLE ASSAULT / COERCION
+2019-00101001
+1900 BLOCK  GIBBS DR
+5/24/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00101345
+100 BLOCK S  MARYLAND ST
+5/24/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 26, 2019 @ 12:39 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f0e9b5bf-2446-49db-9855-96a97428b5b4
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00101617
+500 BLOCK  5TH ST
+5/25/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Assault
+
+HARASSMENT - SIMPLE ASSAULT
+2019-00101261
+900 BLOCK  GRENADA DR
+5/25/2019 @ 12:21 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 1ST - PICKPOCKET
+2019-00101251
+3000 BLOCK  CABOT ST
+5/25/2019 @ 12:10 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00101607
+3200 BLOCK  TEXAS ST
+5/24/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00099964
+100 BLOCK  INGLE CT
+5/23/2019 @ 7:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00101238
+4000 BLOCK  KEATING DR
+5/13/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 26, 2019 @ 12:39 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/14b39dcf-5a67-414b-acca-e0618189a47f
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00100688
+PERCY DR
+5/24/2019 @ 5:10 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00100288
+900 BLOCK W  JEFF DAVIS AV
+5/23/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00100285
+700 BLOCK S  DECATUR ST
+5/23/2019 @ 5:03 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD - RESIDENCE - NO FORCE
+2019-00099696
+600 BLOCK E  EDGEMONT AV
+5/23/2019 @ 11:00 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00100333
+BOONE ST
+5/21/2019 @ 3:50 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00100380
+1700 BLOCK  PINE ST
+5/18/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT OF LOST PROPERTY 3RD $500.01 - $1499.99
+2019-00099033
+200 BLOCK  HALL ST
+5/16/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 25, 2019 @ 12:39 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 1 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+1 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/c1a1ef94-f116-4418-a792-243d45c22478
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00100583
+2100 BLOCK  UPPER WETUMPKA RD
+5/24/2019 @ 2:20 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 25, 2019 @ 12:39 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/86dc8196-a190-427f-b2a2-889fdae3b39b
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00100001
+1100 BLOCK  OAK ST
+5/23/2019 @ 7:59 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00099769
+500 BLOCK  CAPITOL PKWY CT
+5/23/2019 @ 12:40 PM
+Montgomery Police
+
+
+
+Weapons
+
+DISCHARGE FIREARM INTO UNOCCUPIED BUILDING/VEHICLE
+2019-00099540
+500 BLOCK  ROSA L PARKS AV
+5/23/2019 @ 4:56 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00099660
+800 BLOCK S  PERRY ST
+5/22/2019 @ 9:30 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00099550
+100 BLOCK  FLOOD ST
+5/22/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - VEHICLE PARTS
+2019-00099258
+400 BLOCK  PERCY DR
+5/22/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 2ND - DAMAGE TO PRIVATE PROPERTY
+2019-00099725
+1400 BLOCK CRENSHAW PL
+5/22/2019 @ 12:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00099735
+2000 BLOCK  WINONA AV
+5/21/2019 @ 3:30 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 24, 2019 @ 03:00 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 3 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+3 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/207a3bfe-c509-4e48-943e-e7cab4acf9bb
+
+
+
+Assault
+
+ASSAULT 3RD AGGRAVATED FAMILY - KNIFE
+2019-00100102
+1700 BLOCK  CHAMPION ST
+5/23/2019 @ 10:20 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00099859
+1900 BLOCK  RIGBY ST
+5/23/2019 @ 4:20 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00099360
+300 BLOCK  GARDENDALE DR
+5/22/2019 @ 8:35 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 24, 2019 @ 03:00 PM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 5 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+5 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/7c5337a9-8610-4f16-9c25-9043fa46d627
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00099391
+1900 BLOCK  GIBSON ST
+5/22/2019 @ 9:50 PM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00099095
+100 BLOCK  BRIARBROOK DR
+5/22/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 2ND - OTHER
+2019-00099071
+GIBSON ST  &  FAIRGROUND RD
+5/22/2019 @ 12:19 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - BICYCLE
+2019-00098626
+3900 BLOCK  OAK AV
+5/21/2019 @ 8:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00099010
+2000 BLOCK  MILLER ST
+5/13/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 24, 2019 @ 01:01 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/e61947cf-cca9-46cd-a176-f1e20fb90696
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00099128
+500 BLOCK  CAPITOL PKWY CT
+5/22/2019 @ 2:30 PM
+Montgomery Police
+
+
+
+Drugs / Alcohol Violations
+
+POSSESSION/RECEIPT OF CONTROLLED SUBSTANCE
+2019-00099084
+EARLY ST
+5/22/2019 @ 12:57 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00099064
+300 BLOCK S  CAPITOL PKWY
+5/22/2019 @ 11:55 AM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00098922
+NORTHERN BLVD
+5/22/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Assault
+
+ASSAULT 2ND - ASSAULT FAMILY - GUN
+2019-00098793
+3400 BLOCK  LEBRON RD
+5/22/2019 @ 2:15 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00099160
+1900 BLOCK  GIBBS DR
+5/21/2019 @ 1:00 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 2ND - FIREARMS
+2019-00098966
+200 BLOCK  TALLAPOOSA ST
+5/17/2019 @ 1:15 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 24, 2019 @ 01:01 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 6 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+6 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/4191b215-f9c7-4170-a7fc-766771eab666
+
+
+
+Assault
+
+ASSAULT 3RD - SIMPLE ASSAULT
+2019-00098503
+2200 BLOCK W  FAIRVIEW AV
+5/21/2019 @ 5:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00098041
+1600 BLOCK  GRAHAM ST
+5/21/2019 @ 12:42 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00098019
+300 BLOCK  GEORGIA ST
+5/19/2019 @ 3:00 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00097453
+1200 BLOCK  HUGH ST
+5/18/2019 @ 2:37 AM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00098458
+600 BLOCK  CLEVELAND CT
+5/14/2019 @ 12:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+UNAUTHORIZED USE OF TRUCK - NO FORCE
+2019-00098411
+400 BLOCK  BURTON AV
+5/13/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 23, 2019 @ 02:13 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 8 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+8 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/f3ca3363-4961-4d1c-84d6-d10e49042f4c
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00098700
+0 BLOCK  PICKETT ST
+5/21/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+UNAUTHORIZED USE OF VEHICLE - NO FORCE
+2019-00098386
+2100 BLOCK  GIBSON ST
+5/21/2019 @ 2:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00098279
+3900 BLOCK  FAIRGROUND RD
+5/21/2019 @ 7:25 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00098098
+1700 BLOCK  CELINA PL
+5/21/2019 @ 3:50 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00098274
+900 BLOCK  MONTERO DR
+5/21/2019 @ 1:00 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00098139
+1600 BLOCK  EASTERN RIDGE CT
+5/20/2019 @ 11:00 PM
+Montgomery Police
+
+
+
+Motor Vehicle Theft
+
+THEFT 1ST - MOTOR VEHICLE
+2019-00098167
+3000 BLOCK  TYLER CT
+5/20/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00098451
+1600 BLOCK S  OAKVIEW CT
+5/20/2019 @ 6:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 23, 2019 @ 02:13 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 10 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: mpd downtown
+
+10 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/8c0300ae-f4b1-4797-906f-66d9bd1ab81c
+
+
+
+Theft / Larceny
+
+THEFT OF LOST PROPERTY 4TH $500.00 AND UNDER
+2019-00097839
+600 BLOCK W  FAIRVIEW AV
+5/20/2019 @ 5:50 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - SHOPLIFTING LESS THAN $500
+2019-00097594
+600 BLOCK S  DECATUR ST
+5/20/2019 @ 11:51 AM
+Montgomery Police
+
+
+
+Robbery
+
+ROBBERY 2ND - STREET - STRONG ARM
+2019-00097557
+1900 BLOCK  MT MEIGS RD
+5/20/2019 @ 10:45 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00097514
+3200 BLOCK S  HULL ST
+5/20/2019 @ 10:01 AM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00097859
+400 BLOCK  POLK ST
+5/20/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00097382
+3100 BLOCK  LEBRON RD
+5/19/2019 @ 10:30 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00097456
+3300 BLOCK  CLOVERDALE RD
+5/19/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00097577
+1000 BLOCK E  FAIRVIEW AV
+5/19/2019 @ 5:50 PM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM YARD
+2019-00097813
+700 BLOCK  PONCE DE LEON AVE
+5/19/2019 @ 5:30 PM
+Montgomery Police
+
+
+
+Burglary
+
+BURGLARY 3RD -NON-RESIDENCE - FORCE
+2019-00097445
+1000 BLOCK S  COURT ST
+5/19/2019 @ 3:00 PM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 600 S Court St, Montgomery, Alabama, 36104 (2 miles)
+Published: May 22, 2019 @ 03:19 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/1eafdd6e-5d55-4dc8-8fff-6b219c543884
+
+CrimeMapping.com is Powered by TriTech Software Systems'
+CrimeMapping.com: 7 crime(s) reported
+b'CrimeMapping.com | Helping You Build a Safer Community
+
+
+
+Alert Near: Open Data MPD
+
+7 New Crimes(s)
+
+Show on Map: https://www.crimemapping.com//Alerts/Crime/31cd9ccc-4339-4719-83a8-ec37d97e1009
+
+
+
+Burglary
+
+BURGLARY 3RD  - RESIDENCE - FORCE
+2019-00097589
+100 BLOCK  COOK AV
+5/20/2019 @ 8:30 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00097436
+1500 BLOCK  CROUSON ST
+5/20/2019 @ 2:40 AM
+Montgomery Police
+
+
+
+Vehicle Break-In / Theft
+
+UBEV/ARTICLES FROM INSIDE VEHICLE
+2019-00097874
+4100 BLOCK  PERDIDO DR
+5/19/2019 @ 10:00 PM
+Montgomery Police
+
+
+
+Assault
+
+DISCHARGE FIREARM INTO OCCUPIED BUILDING/VEHICLE
+2019-00097584
+2000 BLOCK  OKLAHOMA ST
+5/19/2019 @ 8:00 PM
+Montgomery Police
+
+
+
+Vandalism
+
+CRIMINAL MISCHIEF 3RD- DAMAGE TO PRIVATE PROPERTY
+2019-00097067
+400 BLOCK  4TH ST
+5/19/2019 @ 5:50 PM
+Montgomery Police
+
+
+
+Fraud
+
+IDENTITY THEFT
+2019-00097513
+400 BLOCK  COLISEUM BLVD
+5/17/2019 @ 12:01 AM
+Montgomery Police
+
+
+
+Theft / Larceny
+
+THEFT 4TH - FROM RESIDENCE
+2019-00097551
+2700 BLOCK  MONTROSE AV
+5/6/2019 @ 8:00 AM
+Montgomery Police
+
+
+
+
+
+How I Defined My Alert
+
+What: Arson, Assault, Burglary, Disturbing the Peace, Drugs / Alcohol Violations, DUI, Fraud, Homicide, Motor Vehicle Theft, Robbery, Sex Crimes, Theft / Larceny, Vandalism, Vehicle Break-In / Theft, Weapons
+Where: 1709 N Oakview Ct, Montgomery, Alabama, 36110 (2 miles)
+Published: May 22, 2019 @ 03:19 AM (PT)
+
+
+
+Change Alert Preferences
+https://www.crimemapping.com//subscription/preferences?userID=2773e394-f27d-4661-bbc1-03af7de543d9
+
+Unsubscribe
+https://www.crimemapping.com//Subscription/Alert/Unsubscribed/a5d2e4ec-eaee-4142-a378-53d69f6e5846
+
+CrimeMapping.com is Powered by TriTech Software Systems'
